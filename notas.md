@@ -1,4 +1,4 @@
-﻿## 1. **Diseñando una investigación**
+## **1. Diseñando una investigación**
 1.1. **Tengo una pregunta**
 * Una pregunta de investigación es una pregunta que quieres responder, o al menos intentas responder, haciendo investigación.
 * ¿Cómo hacer una investigación de tal forma que, cuando termines, tengas una respuesta a tu pregunta de investigación? 
@@ -12,7 +12,7 @@
 *  Al tratar de responder una pregunta de investigación, podrías estar respondiendo otra pregunta de investigación completamente distinta.
 * El diseño de investigaciones es difícil, y no porque quieras responder una pregunta de investigación, significa que existe una forma directa de hacerlo. 
 
-## 2. **Preguntas de investigación**
+## **2. Preguntas de investigación**
 2.1. **¿Qué es una pregunta de investigación?** 
 * En la investigación empírica cuantitativa, una pregunta de investigación es una pregunta que puede ser respondida y cuya respuesta mejora tu entendimiento de cómo funciona el mundo. 
 * ¿Qué significa que una pregunta pueda ser respondida? Significa que es posible que exista un conjunto de evidencias en el mundo que, una vez descubiertas, la pregunta tendría una respuesta creible. 
@@ -45,7 +45,7 @@
 * Considera si hay un diseño de investigación adecuado para responderla.
 * ¡Manténla simple!
 
-## 3. **Describiendo variables**
+## **3. Describiendo variables**
 3.1. **Descripciones de variables**
 * Describir una variable satisfactoriamente significa explicar lo que es observado sin necesidad de analizar valor por valor. 
 
@@ -95,7 +95,7 @@
    5. Utiliza la descripción teórica del descriptor para determinar qué tan probable es obtener los datos que se tienen. 
    6. Si es muy poco probable, es posible que hayas empezado con la distribución teórica incorrecta. 
 
-## 4. **Describiendo relaciones**
+## **4. Describiendo relaciones**
 4.1. **¿Qué es una relación?** 
 * Una relación entre dos variables demuestra lo que aprender sobre una variable te dice sobre la otra. 
 * Los gráficos de dispersión son una representación básica de la relación entre dos variables continuas.
@@ -130,8 +130,40 @@
 * Controlar para una variable significa remover toda la variación asociada con dicha variable de todas las demás variables.
 * La relación entre los residuales de X condicional a Z y los residuales de Y condicional a Y es la parte de la relación entre X y Y que no puede ser explicada por Z. La regresión permite controlar para una variable simplemente agregándola a la ecuación. (Regresión multivariada.)
 
+## **5. Identificación**
+**5.1. El proceso de generación de datos**
+* El proceso de generación de datos es el conjunto de reglas subyacentes que determinan cómo es generada los datos que observamos.
+* Podemos inferir las reglas subyacentes, que rigen cómo funciona el mundo, (y por tanto, el proceso de generación de datos) mediante los datos.
+* Los procesos de generación de datos están conformados por dos partes: la que conocemos (la que queremos llegar a conocer a través de la investiigación) y la que no (la que nos permite descartar y priorizar la investigación). 
+* Los datos simulados son datos creados utilizando generadores de números aleatorios a través de procesos de generación de datos elegidos por el investigador. 
+* ¿Cómo utilizar información del proceso de generación de datos? Buscando variación. ¿Cómo encontrar la variación en la cual concentrarse? Mediante el proceso de identificación. 
 
+**5.2. ¿Dónde está la variación?**
+* Las variables se mueven por todo tipo de razones, que se ven reflejadas en el proceso de generación de datos. 
+* Cuando tenemos una pregunta de investigación en mente, normalmente solo nos interesa una de las razones por las que las variables se mueven.
+* Debemos preguntarnos: ¿cuál es la variación que estamos tratando de encontrar? 
+* Debemos utilizar información del proceso de generación de datos para descartar variaciones y aislar aquellas que responderan la pregunta de investigación. 
+* La tarea de averiguar cómo responder a nuestra pregunta de investigación es realmente la tarea de averiguar dónde está la variación.
 
+**5.3. Identificación**
+* La identificación es le proceso de encontrar la parte de la variación (un único mecanismo teórico) que responderá a tu pregunta de investigación. 
+* La identificación nos lleva de la hipótesis a los datos, asegurando que tengamos una forma de probar dicha hipótesis en los datos. 
+* El proceso de descartar todas las demás explicaciones es el cómo identiificamos las respuestas a preguntas de investigación.
+* Necesitamos afirmar lo que ya sabemos sobre cómo el proceso de generación de datos funciona para poder aprender algo nuevo.
+* Si queremos identificar la parte de nuestros datos que responde a nuestra pregunta de investigación, debemos: 
+   1. Utilizando teoría, describir de la forma más precisa el proceso de generación de datos.
+   2. Utilizar dicho proceso de generación de datos para encontrar las razones alternativas por las que posiblemente nuestros datos se observan así y que no responden nuestra pregunta de investigación. 
+   3. Encuentrar formas de bloquear esas razones alternativas y así desenterrar la variación que necesitamos.
 
+**5.4 Alcohol y mortalidad**
+* Los determinantes de Y son el conjunto de variables que son parte del proceso de generación de datos cuando Y es la variable de salida. 
 
-
+**5.5. Contexto y omnisciencia**
+* Ls retos no son primordialmente técnicos, sino conocimiento institucional detallado y la cautelosa investigación y cuantificación de las fuerzas en un entorno particular. 
+* La necesidad del contexto también revela nuestras limitaciones. 
+* Debemos estar prerparados para que los resultados sean más cuestionables y más exploratorios. 
+* Debemos: 
+   1. Aprender lo que podamos sobre el contexto para que no nos perdamos ninguna importante del proceso de generación de datos.
+   2. Tener cuidado de reconocer las suposiciones que estamos haciendo y pensar en cómo podrían estar equivocadas.
+   3. Tratar de detectar brechas en nuestro conocimiento sobre el proceso de generación de datos y hacer algunas conjeturas realistas sobre lo que podría existir dentro de esa brecha.
+   4. No apuntar a la perfección, sino apuntar a acercarnos lo más posible. 
